@@ -1,10 +1,26 @@
-Open-Free-AI
-免费正版扫描电子书
+<!DOCTYPE html>
+<html>
+<head>
 
-QQ群：817505742
+  <base href="https://open-free-ai.github.io/books/">
 
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
 
-文字识别：原理、方法和实践|丁晓青王言伟等|清华大学出版社
-链接：https://pan.baidu.com/s/1vKyK1-vOZyyO3y3vBwPzpA?pwd=wtaq 
-提取码：wtaq
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="de">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>de</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
